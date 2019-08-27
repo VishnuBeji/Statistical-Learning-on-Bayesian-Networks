@@ -1,2 +1,2 @@
 # Advanced-Topics-in-AI--EE6180
-Repo for psets from the course
+Repository for assignments from the course Advanced Topics in Artificial Intelligence.
